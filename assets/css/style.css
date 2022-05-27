@@ -1,0 +1,30 @@
+* {
+    background-color: #d8d8ec;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+}
+
+header {
+    text-align: center;
+    margin: 20px;
+}
+
+.center-ctn {
+    padding: 0;
+    width: 100%;
+}
+
+.btn-submit {
+    display: flex;
+    background-color: #393983;
+    padding: 15px 35px;
+    border: solid 1px #1d1d24;
+    border-radius: 10px;
+    justify-content: right;
+    
+}
